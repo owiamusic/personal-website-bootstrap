@@ -43,7 +43,7 @@ li {
 }
 
 .bg-img {
-    background-image: url(personal-website-bootstrap/img/background-imgheader.png);
+    background-image: url(https://github.com/owiamusic/personal-website-bootstrap/blob/main/img/background-imgheader.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -58,7 +58,7 @@ li {
 }
 
 .back-img {
-    background-image: url(personal-website-bootstrap/img/background.jpg);
+    background-image: url(https://github.com/owiamusic/personal-website-bootstrap/blob/main/img/background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
