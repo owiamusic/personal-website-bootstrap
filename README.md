@@ -1,2 +1,4 @@
 # personal-website-bootstrap
-My Personal Bootstrap Website
+My Personal Website created with Bootstrap Framework.
+
+Will be updating it from time to time.
